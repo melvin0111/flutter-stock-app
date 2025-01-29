@@ -15,6 +15,6 @@ Run the App:
 
 flutter run
 
-![Dashboard](./images/dashboard.png)
+<img src="images/dashboard.png" alt="Dashboard" width="400"/>
 
 I also added unit, widget, and integration tests. I used the Alpha Vantage RESTful API, so there is a strict limit of 25 calls per day. Just a fun project I was working on to learn Flutter/Dart. 
